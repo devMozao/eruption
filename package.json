@@ -88,7 +88,7 @@
     "vite-plugin-compression2": "^1.x",
     "vite-plugin-qrcode": "^0.x",
     "vitest": "^1.x",
-    "web-vitals": "^3.x"
+    "web-vitals": "^4.x"
   },
   "msw": {
     "workerDirectory": "public"
