@@ -74,7 +74,7 @@
     "eslint-plugin-react": "^7.x",
     "eslint-plugin-react-hooks": "^4.x",
     "eslint-plugin-react-refresh": "^0.x",
-    "happy-dom": "^14.x",
+    "happy-dom": "^15.x",
     "husky": "^9.x",
     "lint-staged": "^15.x",
     "msw": "^2.x",
