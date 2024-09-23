@@ -60,7 +60,7 @@
     "@types/bun": "^1.x",
     "@types/react": "^18.x",
     "@types/react-dom": "^18.x",
-    "@typescript-eslint/eslint-plugin": "^7.x",
+    "@typescript-eslint/eslint-plugin": "^8.x",
     "@typescript-eslint/parser": "^7.x",
     "@vitejs/plugin-react-swc": "^3.x",
     "@vitest/coverage-v8": "^1.x",
